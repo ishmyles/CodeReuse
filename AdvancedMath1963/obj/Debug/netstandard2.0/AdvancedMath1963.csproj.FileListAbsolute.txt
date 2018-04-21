@@ -1,0 +1,9 @@
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\bin\Debug\netstandard2.0\AdvancedMath1963.deps.json
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\bin\Debug\netstandard2.0\AdvancedMath1963.dll
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\bin\Debug\netstandard2.0\AdvancedMath1963.pdb
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\obj\Debug\netstandard2.0\AdvancedMath1963.csprojResolveAssemblyReference.cache
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\obj\Debug\netstandard2.0\AdvancedMath1963.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\obj\Debug\netstandard2.0\AdvancedMath1963.AssemblyInfoInputs.cache
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\obj\Debug\netstandard2.0\AdvancedMath1963.AssemblyInfo.cs
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\obj\Debug\netstandard2.0\AdvancedMath1963.dll
+C:\Users\ishmyles\Desktop\CodeReuse\AdvancedMath1963\obj\Debug\netstandard2.0\AdvancedMath1963.pdb
